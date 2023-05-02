@@ -1,4 +1,4 @@
 这才是utf-8
 新增一句
 我现在要了解git追总的是什么东西
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
